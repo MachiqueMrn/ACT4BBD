@@ -1,0 +1,3 @@
+-- 1. Crear la tabla Ciudadano
+-- 2. Crear la tabla SolicitudLicencia
+-- 3. Crear la tabla Requisito
